@@ -16,6 +16,29 @@
 
 ---
 
+<details>
+<summary> Connect with me🤝: </summary>  
+
+<br/>
+
+<a href="https://github.com/HAPPY7131">
+  <img align="left" alt="HAPPY7131's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+</a>
+
+<a href="https://instagram.com/ashish___lodhi/">
+  <img align="left" alt="HAPPY7131's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+</a>
+
+ <a href="https://discord.com/channels/@me/850938117422448670">
+  <img align="left" alt="HAPPY7131's Discord" width="22px" src="https://www.iconfinder.com/icons/4373196/discord_logo_logos_icon.png" />
+</a>
+ 
+<br/>
+
+</details>
+
+---
+
 <details open> 
  <summary>:robot: <b>My programming stats</b>: </summary>
 <br>
