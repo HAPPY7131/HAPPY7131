@@ -1,8 +1,13 @@
 ---  
-:wave: Welcome to my Profile bro !
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Welcome to my Profile bro !
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=HAPPY7131&color=brightgreen" alt="watching_count">
+<img src="https://img.shields.io/badge/Age-18-blue" />
+<img src="https://img.shields.io/badge/Languages-Hindi%20%26%20English-brightgreen" />
+<img src="https://img.shields.io/badge/Lives-India-success" />
 
 -----  
-![gif](https://cdn.discordapp.com/attachments/754377082297123209/808097928933015552/tenor.gif)
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <details open> 
  <summary>:robot: <b>My programming stats</b>: </summary>
