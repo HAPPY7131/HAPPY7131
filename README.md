@@ -1,5 +1,5 @@
 ---  
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Welcome to my Profile bro !
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px">Welcome to my Profile bro !<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="15px">
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=HAPPY7131&color=brightgreen" alt="watching_count">
 <img src="https://img.shields.io/badge/Age-18-blue" />
