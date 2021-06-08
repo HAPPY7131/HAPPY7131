@@ -42,7 +42,8 @@
  
  
 <!--START_SECTION:waka-->
-```diff
+#
+```
  💬 > Nothing.
 ```
 #
@@ -53,9 +54,9 @@
 #
 ```
 🌟 > JavaScript             - Dev level => 9/10
-
->~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+```
+#
+```
 🔸 > Lua (learning)
 🔸 > C++ (learning)
 🔸 > Php (learning)
@@ -64,6 +65,7 @@
 🔸 > Csharp (learning)
 🔸 > Python (learning)
 ```
+#
 </details>
 
 <details open>
