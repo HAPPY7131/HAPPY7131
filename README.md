@@ -1,16 +1,31 @@
-### Hi there 👋
+---  
+:wave: Welcome to my Profile bro !
 
-<!--
-**HAPPY7131/HAPPY7131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----  
+![gif](https://cdn.discordapp.com/attachments/754377082297123209/808097928933015552/tenor.gif)
 
-Here are some ideas to get you started:
+<details open> 
+ <summary>:robot: <b>My programming stats</b>: </summary>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
+```diff
+ 💬 > 18 years old passionate about development.
+```
+#
+```
+🤝 > Discord : Ashish.#1219
+📌 > Discord : currently none
+```
+#
+```
+🌟 > JavaScript             - Dev level => 9/10
+>~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🔸 > Lua (learning)
+🔸 > C++ (learning)
+🔸 > Php (learning)
+🔸 > Css (learning)
+🔸 > Html (learning)
+🔸 > Csharp (learning)
+🔸 > Python (learning)
+```
