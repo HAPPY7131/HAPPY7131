@@ -34,19 +34,22 @@
 🔸 > Csharp (learning)
 🔸 > Python (learning)
 ```
- ---  
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+</details>
+
+<details open>
+<summary>⚙️ My GitHub statistics :</summary> 
+<p align="center">
+<a href="https://github.com/HAPPY7131">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HAPPY7131&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+</details>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HAPPY7131&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=HAPPY7131&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
-
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=HAPPY7131&theme=juicyfresh&no-bg=true" />
-
-
------
+<details open>
+<summary>⚙️ My Programing Languages:</summary>
+ <p align="center"> 
+<a href="https://github.com/HAPPY7131">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HAPPY7131&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+ </details>
