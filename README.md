@@ -7,12 +7,13 @@
 <img src="https://img.shields.io/badge/Lives-India-success" />
 
 -----  
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <details open> 
  <summary>:robot: <b>My programming stats</b>: </summary>
 <br>
-
+<img align="right" width=300px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ 
+ 
 <!--START_SECTION:waka-->
 ```diff
  💬 > 18 years old passionate about development.
