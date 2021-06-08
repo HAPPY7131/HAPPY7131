@@ -16,7 +16,7 @@
 
 ---
 
-<details>
+<details open>
 <summary> Connect with me🤝: </summary>  
 
 <br/>
@@ -43,7 +43,7 @@
  
 <!--START_SECTION:waka-->
 ```diff
- 💬 > 18 years old passionate about development.
+ 💬 > Nothing.
 ```
 #
 ```
@@ -53,7 +53,9 @@
 #
 ```
 🌟 > JavaScript             - Dev level => 9/10
+
 >~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 🔸 > Lua (learning)
 🔸 > C++ (learning)
 🔸 > Php (learning)
