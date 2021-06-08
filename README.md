@@ -28,10 +28,6 @@
 <a href="https://instagram.com/ashish___lodhi/">
   <img align="left" alt="HAPPY7131's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
-
- <a href="https://discord.com/channels/@me/850938117422448670">
-  <img align="left" alt="HAPPY7131's Discord" width="22px" src="https://www.iconfinder.com/icons/4373196/discord_logo_logos_icon.png" />
-</a>
  
 <br/>
 
