@@ -50,21 +50,11 @@
 #
 ```
 🤝 > Discord : Ashish.#1219
-📌 > Discord : currently none
+📌 > Discord : https://discord.gg/bothub
 ```
 #
 ```
 🌟 > JavaScript             - Dev level => 9/10
-```
-#
-```
-🔸 > Lua (learning)
-🔸 > C++ (learning)
-🔸 > Php (learning)
-🔸 > Css (learning)
-🔸 > Html (learning)
-🔸 > Csharp (learning)
-🔸 > Python (learning)
 ```
 #
 </details>
